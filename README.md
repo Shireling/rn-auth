@@ -1,2 +1,2 @@
 # rn-auth
-React Native authentication with Firebase
+Simple React Native app that authenticates with Firebase
